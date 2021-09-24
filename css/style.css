@@ -26,7 +26,7 @@ ul{
 
 .button_1{
     height: 38px;
-    background: #e8491d;
+    background: #ee9a1c;
     border: 0;
     padding-left: 20px;
     padding-right: 20px;
@@ -43,11 +43,11 @@ ul{
 
 /*header*/
 header{
-    background: #35424a;
+    background: linear-gradient(to right, #596770, #111416 );
     color: #ffffff;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom:#e8491d 3px solid
+    border-bottom:#ee9a1c 3px solid
 }
 
 /* all parts with the 'a' tag within the header (links)*/
@@ -88,7 +88,7 @@ header nav{
 
 /* Little confused on this part, but it works*/
 header .highlight, header .current a{
-    color: #e8491d;
+    color: #ee9a1c;
     font-weight:bold;
     
 }
@@ -191,7 +191,7 @@ footer{
     padding: 20px;
     margin-top: 20px;
     color: #ffffff;
-    background-color: #e8491d;
+    background-color: #ee9a1c;
     text-align: center;
 }
 
